@@ -1,0 +1,5 @@
+Bonus Features:
+
+- Used only smart (shared) pointers in the project.
+- In Level 4, for every block, if the block is not cleared after 10 more blocks have been generated, it will disappear from the screen.
+
